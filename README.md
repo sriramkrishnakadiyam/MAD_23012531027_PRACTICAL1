@@ -8,7 +8,7 @@ Displays them using println().
 1.2 Type Conversion
 
 Demonstrates type casting and conversion functions in Kotlin: Int → Double String → Int String → Double
-![image_alt]()
+![image_alt](https://github.com/sriramkrishnakadiyam/MAD_23012531027_PRACTICAL1/blob/7d656270c2dfdfabf88a9647978da722b0a49f1b/Screenshot%202025-11-27%20083649.png)
 
 Concepts Covered: Type Safety, Explicit Conversion (toInt(), toDouble()).
 
