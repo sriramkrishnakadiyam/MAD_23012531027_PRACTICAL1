@@ -16,7 +16,7 @@ Concepts Covered: Type Safety, Explicit Conversion (toInt(), toDouble()).
 
 Reads student details (name, enrollment no, branch, etc.) using readLine(). Displays them back in formatted form.
 
-![image_alt]()
+![image_alt](https://github.com/sriramkrishnakadiyam/MAD_23012531027_PRACTICAL1/blob/4cae52a6157a2ec25e54a6bda62f2c4aee89acf3/Screenshot%202025-11-27%20090812.png)
 Concepts Covered: Input Handling, String Templates.
 
 
