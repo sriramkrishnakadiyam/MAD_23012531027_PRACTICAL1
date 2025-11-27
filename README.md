@@ -50,7 +50,7 @@ Concepts Covered: Collections, Iteration, Conditional Logic.
 
 1.10 Class and Constructor Creation Defines a Car class with properties: type, model, price, owner, milesDriven Implements functions to: Get car information. Get original price and current price. Display details.
 
-![image_alt]()
+![image_alt](https://github.com/sriramkrishnakadiyam/MAD_23012531027_PRACTICAL1/blob/3cecabae1fff305cb13fbe142c393fbc7fd3dc3c/Screenshot%202025-11-27%20090427.png)
 Concepts Covered: Classes, Primary & Secondary Constructors, Member Functions, Encapsulation.
 
 1.11 Operator Overloading & Matrix Operations Implements a Matrix class. Defines operator functions for: Addition (+) Subtraction (-) Multiplication (*) Overloads toString() for custom display of matrix contents.
