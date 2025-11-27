@@ -25,7 +25,7 @@ Concepts Covered: Conditional Expressions, Inline Checks.
 
 1.5 Display Month 
 Name (when Expression) Accepts a number (1–12) from the user. Prints the corresponding month name using the when expression.
-![image_alt]()
+![image_alt](https://github.com/sriramkrishnakadiyam/MAD_23012531027_PRACTICAL1/blob/cc0b2c6e4eab2dc949418d6de479bb69ad4d1c5e/Screenshot%202025-11-27%20085102.png)
 
 Concepts Covered: when Expression, Branching.
 
