@@ -35,7 +35,7 @@ Concepts Covered: Functions, Parameters, Return Values.
 
 1.7 Factorial with Recursion Defines a recursive function to compute the factorial of a given number.
 
-![image_alt]()
+![image_alt](https://github.com/sriramkrishnakadiyam/MAD_23012531027_PRACTICAL1/blob/67682c7c9aff597eb80b1cb41147c4322be4d4f6/Screenshot%202025-11-27%20085449.png)
 1.8 Working with Arrays Demonstrates: Arrays.deepToString() contentDeepToString() IntArray.joinToString() Uses loop ranges (.., downTo, until) for traversal. Sorts an array: Without built-in functions (manual sorting). With built-in functions (sortedArray()).
 ![image_alt]()
 Concepts Covered: Arrays, Loops, Sorting, Built-in Functions.
