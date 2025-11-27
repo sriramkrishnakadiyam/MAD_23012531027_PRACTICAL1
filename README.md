@@ -20,8 +20,7 @@ Concepts Covered: Input Handling, String Templates.
 
 1.4 Odd or Even Number Check Accepts a number and determines whether it is odd or even. Uses control flow inside println().
 
-![image_alt](https://github.com/sriramkrishnakadiyam/MAD_23012531027_PRACTICAL1/blob/030cb1e1d6a680190ed0fe6bf1789fe8232d38bf/Screenshot%202025-11-27%20084157.png)
-
+![image_alt]_(https://github.com/sriramkrishnakadiyam/MAD_23012531027_PRACTICAL1/blob/030cb1e1d6a680190ed0fe6bf1789fe8232d38bf/Screenshot%202025-11-27%20084157.png)
 Concepts Covered: Conditional Expressions, Inline Checks.
 
 1.5 Display Month 
