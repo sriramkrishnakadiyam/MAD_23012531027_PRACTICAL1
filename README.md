@@ -39,7 +39,7 @@ Concepts Covered: Functions, Parameters, Return Values.
 
 ![image_alt](https://github.com/sriramkrishnakadiyam/MAD_23012531027_PRACTICAL1/blob/67682c7c9aff597eb80b1cb41147c4322be4d4f6/Screenshot%202025-11-27%20085449.png)
 1.8 Working with Arrays Demonstrates: Arrays.deepToString() contentDeepToString() IntArray.joinToString() Uses loop ranges (.., downTo, until) for traversal. Sorts an array: Without built-in functions (manual sorting). With built-in functions (sortedArray()).
-![image_alt]()
+![image_alt](https://github.com/sriramkrishnakadiyam/MAD_23012531027_PRACTICAL1/blob/8471b0f2814ee1dc8110662ba623d6e70d4f43c0/Screenshot%202025-11-27%20085938.png)
 Concepts Covered: Arrays, Loops, Sorting, Built-in Functions.
 
 1.9 Find Maximum Number from ArrayList Accepts an ArrayList. Finds the maximum element using iteration.
