@@ -30,7 +30,7 @@ Name (when Expression) Accepts a number (1–12) from the user. Prints the corre
 Concepts Covered: when Expression, Branching.
 
 1.6 User-Defined Function (Arithmetic Operations) Creates a function that performs: Addition Subtraction Multiplication Division Calls and displays results.
-![image_alt]()
+![image_alt](https://github.com/sriramkrishnakadiyam/MAD_23012531027_PRACTICAL1/blob/ed5615e149cca26b51aa41957dc46f17ed18a5e9/Screenshot%202025-11-27%20085301.png)
 Concepts Covered: Functions, Parameters, Return Values.
 
 1.7 Factorial with Recursion Defines a recursive function to compute the factorial of a given number.
